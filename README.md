@@ -1,3 +1,5 @@
+![Franco Meriles — Sr Software Engineer](header.png)
+
 # Franco Meriles
 
 **Sr Software Engineer** · Salta, Argentina
